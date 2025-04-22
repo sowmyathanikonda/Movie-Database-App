@@ -10,3 +10,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+<<<<<<< HEAD
+=======
+
+.App {
+  min-height: 100vh;
+}
+
+.route-page-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+>>>>>>> 130b2496e6b41b3421d8d6498ef62bf4e9267e6a
